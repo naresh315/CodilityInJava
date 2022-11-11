@@ -4,7 +4,10 @@ package com.cutajarjames.codility.arrays;
 import java.util.Arrays;
 
 /**
- * This is the solution for Arrays > CyclicRotation
+
+
+
+* This is the solution for Arrays > CyclicRotation
  * <p>
  * This is marked as PAINLESS difficulty
  */
